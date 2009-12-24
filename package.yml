@@ -1,7 +1,7 @@
 name:  jQueryEvents
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  0.5
+category:  Utilities
+tags:  [events]
+docs:  http://davidwalsh.name/js/jqueryevents
+demo:  http://davidwalsh.name/js/jqueryevents
