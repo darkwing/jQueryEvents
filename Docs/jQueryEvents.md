@@ -9,11 +9,11 @@ How to Use
 All you need to do is add the jQueryEvents.js file into the page.  A few sample usages are:
 	
 ### Javascript
-	$('myElement').click(function() {
+	$('myElement').click(function(e) {
 		//do stuff
 	});
 	
-	window.scroll(function() {
+	window.scroll(function(e) {
 		//do stuff
 	});
 
