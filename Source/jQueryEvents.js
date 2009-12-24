@@ -12,7 +12,9 @@ requires:
   core/1.2.1:   '*'
 
 provides:
-  - Element.click (etc.)
+  - Element.click
+  - Element.mouseenter
+  - (etc.)
 ...
 */
 //hash the element.natives so we can do stuff with it
